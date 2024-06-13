@@ -8,10 +8,10 @@ You can found the image in System.png
 
 Parameter used is the simulation are present in the image Parametre.png
 
-GeometryStresse.mph is the Comsol file -> for Arthur
+GeometryStresse.mph is the Comsol file -> for Arthur only. 
 
-In data. The polarisation of each par of the sample is describe in the single text \
-You have three column : \
-Column 1 : equilibrium polarisation (i.e if it\'92s low : it\'92s MW OFF, if it\'92s high, it\'92s MW ON) \
-Column 2 : time \
-Column 3 : Average polarisation
+In data. The polarisation of each part of the sample is describe in the single text 
+You have three column : 
+Column 1 : equilibrium polarisation (i.e if it's low : it's MW OFF: if it's high: it's MW ON). 
+Column 2 : time of the integral 
+Column 3 : Average polarisation over each volume
